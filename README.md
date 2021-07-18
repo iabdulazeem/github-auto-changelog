@@ -1,4 +1,4 @@
-# cresta-changelog
+# github-auto-changelog
 This repository contains the changelogs for each PR merge for all the github repos where this server link is added under webhook
 
 
